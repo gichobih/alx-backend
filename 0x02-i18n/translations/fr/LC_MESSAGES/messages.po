@@ -22,5 +22,6 @@ msgstr ""
 msgid "home_title"
 msgstr "Bienvenue chez Holberton"
 
+#:templates/3-index.html
 msgid "home_header"
 msgstr "Bonjour monde!"
