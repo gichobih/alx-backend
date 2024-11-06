@@ -1,6 +1,7 @@
 ## 0x02. i18n
  `Back-end`
-[!image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/1/91e1c50322b2428428f9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20241106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241106T095331Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=84977e0119679e09e95ccf37594be3b8dd5977961ef8e46d5e0f0a18d1013560)
+
+![image](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/1/91e1c50322b2428428f9.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20241106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241106T095331Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=84977e0119679e09e95ccf37594be3b8dd5977961ef8e46d5e0f0a18d1013560)
 
 ### Resources
 #### Read or watch:
